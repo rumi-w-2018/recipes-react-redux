@@ -1,0 +1,28 @@
+header.pg-title {
+  background: linear-gradient(
+    to right,
+    rgba(255, 237, 207, 0),
+    rgba(255, 204, 128, 1)
+  );
+}
+
+main {
+  background: linear-gradient(
+    to right,
+    rgba(255, 237, 207, 0),
+    rgba(255, 204, 128, 1)
+  );
+  min-height: 98%;
+}
+
+hr.custom {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(
+    to right,
+    rgba(250, 140, 107, 0),
+    rgba(250, 140, 107, 0.75),
+    rgba(250, 140, 107, 0)
+  );
+  z-index: 99;
+}

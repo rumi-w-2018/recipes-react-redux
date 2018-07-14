@@ -1,0 +1,11 @@
+button.page {
+  width: 6rem;
+}
+button.page.show:hover {
+  outline: none;
+  background-color: #efebe9;
+}
+
+h3 {
+  color: #b11d1d;
+}

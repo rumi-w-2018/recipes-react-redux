@@ -1,0 +1,12 @@
+.img-wrapper {
+  height: 10rem;
+}
+
+img.picture {
+  min-width: 12rem;
+}
+
+.recipe-title {
+  font-size: 0.8rem;
+  color: #b11d1d;
+}

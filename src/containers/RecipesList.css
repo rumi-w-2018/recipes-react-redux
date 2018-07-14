@@ -1,0 +1,11 @@
+/* ul.recipe-list {
+  padding-left: 0;
+} */
+
+.recipe-list-item {
+  height: 14rem;
+  width: 12rem;
+}
+.recipe-list-item:hover {
+  background-color: #fafafa;
+}
